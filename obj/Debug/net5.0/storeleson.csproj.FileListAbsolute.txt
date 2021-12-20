@@ -1,0 +1,5 @@
+C:\Users\max7\source\repos\storeleson\storeleson\obj\Debug\net5.0\storeleson.csproj.AssemblyReference.cache
+C:\Users\max7\source\repos\storeleson\storeleson\obj\Debug\net5.0\storeleson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max7\source\repos\storeleson\storeleson\obj\Debug\net5.0\storeleson.AssemblyInfoInputs.cache
+C:\Users\max7\source\repos\storeleson\storeleson\obj\Debug\net5.0\storeleson.AssemblyInfo.cs
+C:\Users\max7\source\repos\storeleson\storeleson\obj\Debug\net5.0\storeleson.csproj.CoreCompileInputs.cache
