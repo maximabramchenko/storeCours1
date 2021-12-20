@@ -8,7 +8,7 @@ namespace storeleson
 {
     class Rectangle
     {
-        public int left;
+        //public int left;
 
         public int top;
 
@@ -16,13 +16,21 @@ namespace storeleson
 
         private int height;
 
+        public int Left { get; set; }
+
+        public int Top { get; set; }
 
 
+        public int Square()
+        {
+             return Widht * Height; 
+        
+        }
 
         public Rectangle(int left, int top, int width, int height)
         {
-            this.left = left;
-            this.top = top;
+            Left = left;
+            Top = top;
 
             if (width <= 0)
                 throw new AggregateException(nameof(width));

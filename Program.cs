@@ -8,6 +8,8 @@ namespace storeleson
         {
             Rectangle rectangle = new Rectangle(-1, 200, 50, 100);
             rectangle.Widht = 30;
+            rectangle.Height = 25;
+            rectangle.Left = 10;
         }
     }
 }
